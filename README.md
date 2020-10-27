@@ -11,4 +11,4 @@ This website is a SEO company representing search engine optimization.
 
 ## Link
  
-[Horiseon Website](https://lorena-ramirez.github.io/code_refractor/)
+[Horiseon Website](https://lorena-ramirez.github.io/code_refactor/)
